@@ -32,3 +32,8 @@ Steps to use:
  * Mask output is availabe at mask.jpg
  * Texture map is available as temp.jpg
  * You can add new shapes in Object.py line no 12
+
+--
+Atishay Jain
+CS231A 2016
+atishay@stanford.edu
